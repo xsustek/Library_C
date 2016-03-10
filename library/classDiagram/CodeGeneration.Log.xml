@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/PROGRAM FILES (X86)/MICROSOFT VISUAL STUDIO 14.0/COMMON7/IDE/EXTENSIONS/MICROSOFT/ARCHITECTURE TOOLS/EXTENSIBILITY/Logging/CodeGenLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log" Label="Code Generation/Text Transformation Log">
+  <MessageClass Name="Message" Label="Message" Option="Show informational messages" />
+  <MessageClass Name="Warning" Label="Warning" Option="Show warnings" />
+  <MessageClass Name="Error" Label="Error" Option="Show errors" />
+  <MessageClass Name="Property" Label="Property" Option="Show metadata" />
+  <MessageClass Name="Diagnostic" Label="Message" Option="Show diagnostic messages" />
+  <Message Timestamp="2016-03-10T02:04:12" Importance="High" Text="Code generation or text transformation started." />
+  <Message Timestamp="2016-03-10T02:04:13" Importance="Diagnostic" Text="Name = ClassTemplate" />
+  <Message Timestamp="2016-03-10T02:04:13" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-03-10T02:04:13" Importance="Diagnostic" Text="ProjectPath = ..\classDiagramLib\classDiagramLib.csproj" />
+  <Message Timestamp="2016-03-10T02:04:13" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-03-10T02:04:13" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-03-10T02:04:13" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-03-10T02:04:13" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4" />
+  <Message Timestamp="2016-03-10T02:04:13" Importance="Medium" Text="classDiagram's Text Template Binding: 'ClassTemplate' will apply ClassTemplate.t4 to: 'classDiagram::Book' -  (Class), 'classDiagram::Lease' -  (Class), 'classDiagram::Customer' -  (Class), 'classDiagram::BookManager' -  (Class), 'classDiagram::LeaseManager' -  (Class), 'classDiagram::CustomerManager' -  (Class) " />
+  <Message Timestamp="2016-03-10T02:04:13" Importance="Medium" Text="'classDiagram::Book' -  (Class) : success (file replaced) - c:\Users\Milan\documents\visual studio 2015\Projects\library\classDiagramLib\GeneratedCode\Book.cs" />
+  <Message Timestamp="2016-03-10T02:04:13" Importance="Medium" Text="'classDiagram::Lease' -  (Class) : success (file replaced) - c:\Users\Milan\documents\visual studio 2015\Projects\library\classDiagramLib\GeneratedCode\Lease.cs" />
+  <Message Timestamp="2016-03-10T02:04:13" Importance="Medium" Text="'classDiagram::Customer' -  (Class) : success (file replaced) - c:\Users\Milan\documents\visual studio 2015\Projects\library\classDiagramLib\GeneratedCode\Customer.cs" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Medium" Text="'classDiagram::BookManager' -  (Class) : success (file replaced) - c:\Users\Milan\documents\visual studio 2015\Projects\library\classDiagramLib\GeneratedCode\BookManager.cs" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Medium" Text="'classDiagram::LeaseManager' -  (Class) : success (file replaced) - c:\Users\Milan\documents\visual studio 2015\Projects\library\classDiagramLib\GeneratedCode\LeaseManager.cs" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Medium" Text="'classDiagram::CustomerManager' -  (Class) : success (file replaced) - c:\Users\Milan\documents\visual studio 2015\Projects\library\classDiagramLib\GeneratedCode\CustomerManager.cs" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="Name = InterfaceTemplate" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="ProjectPath = ..\classDiagramLib\classDiagramLib.csproj" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Medium" Text="classDiagram's Text Template Binding: 'InterfaceTemplate' will apply InterfaceTemplate.t4 to: 'classDiagram::IBookManager' -  (Interface), 'classDiagram::ILeaseManager' -  (Interface), 'classDiagram::ICustomerManager' -  (Interface) " />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Medium" Text="'classDiagram::IBookManager' -  (Interface) : success (file replaced) - c:\Users\Milan\documents\visual studio 2015\Projects\library\classDiagramLib\GeneratedCode\IBookManager.cs" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Medium" Text="'classDiagram::ILeaseManager' -  (Interface) : success (file replaced) - c:\Users\Milan\documents\visual studio 2015\Projects\library\classDiagramLib\GeneratedCode\ILeaseManager.cs" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Medium" Text="'classDiagram::ICustomerManager' -  (Interface) : success (file replaced) - c:\Users\Milan\documents\visual studio 2015\Projects\library\classDiagramLib\GeneratedCode\ICustomerManager.cs" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="Name = StructTemplate" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="Overwrite = True" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="ProjectPath = ..\classDiagramLib\classDiagramLib.csproj" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="TargetDirectory = GeneratedCode\{PackageStructure}" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="TargetName = {Name}" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="TemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="ResolvedTemplateFilePath = C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Medium" Text="classDiagram's Text Template Binding: 'StructTemplate' will apply StructTemplate.t4 to: 'classDiagram::Book' -  (Class), 'classDiagram::Lease' -  (Class), 'classDiagram::Customer' -  (Class), 'classDiagram::BookManager' -  (Class), 'classDiagram::LeaseManager' -  (Class), 'classDiagram::CustomerManager' -  (Class) " />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="'classDiagram::Book' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="'classDiagram::Lease' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="'classDiagram::Customer' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="'classDiagram::BookManager' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="'classDiagram::LeaseManager' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-10T02:04:14" Importance="Diagnostic" Text="'classDiagram::CustomerManager' -  (Class): no file generated because the 'AppliesToElement' method of the template 'StructTemplate.t4' evaluated to false." />
+  <Message Timestamp="2016-03-10T02:04:15" Importance="Diagnostic" Text="The selection included 5 elements which were not bound to a template." />
+  <Message Timestamp="2016-03-10T02:04:15" Importance="Diagnostic" Text="'classDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-03-10T02:04:15" Importance="Diagnostic" Text="'classDiagram::' -  (Association): no bound template." />
+  <Message Timestamp="2016-03-10T02:04:15" Importance="Diagnostic" Text="'classDiagram::' -  (Dependency): no bound template." />
+  <Message Timestamp="2016-03-10T02:04:15" Importance="Diagnostic" Text="'classDiagram::' -  (Dependency): no bound template." />
+  <Message Timestamp="2016-03-10T02:04:15" Importance="Diagnostic" Text="'classDiagram::' -  (Dependency): no bound template." />
+  <Message Timestamp="2016-03-10T02:04:15" Importance="High" Text="Code generation complete. Errors: 0. Warnings: 0." />
+</Log>
